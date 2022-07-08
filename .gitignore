@@ -56,8 +56,8 @@ coverage.xml
 .pytest_cache/
 
 # Datasets
-*.csv
-*.xls
+.csv
+.xls
 
 # Translations
 *.mo
